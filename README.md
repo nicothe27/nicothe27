@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**nicothe27/nicothe27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hola, Soy Nicolas</h2>
 
-Here are some ideas to get you started:
+- 🌐 Backend Developer & QA Analyst
+- 💻 Actualmente me encuentro aprendiendo FastAPI, MySQL y MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Tech Stack
+#### Front-end
+<span>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+
+</span>
+<br>
+
+#### Back-end
+<span>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> 
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> 
+</span>
+<br>
+
+#### Other
+<span>
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Xray--Test--Management-1C1C1C?style=for-the-badge&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Zephyr--QA--Tools-023047?style=for-the-badge&logoColor=white" /> 
+
+</span>
+<br/>
+
