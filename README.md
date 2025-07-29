@@ -1,8 +1,14 @@
 
-<h2 align="left">Hola, Soy Nicolas</h2>
+<h2 align="left">Hola, soy Nicolas!</h2>
 
 - 🌐 Backend Developer & QA Analyst
 - 💻 Actualmente me encuentro aprendiendo FastAPI, MySQL y MongoDB
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicotheumer27/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicotheit@gmail.com)
+
 
 
 
